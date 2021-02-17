@@ -214,6 +214,7 @@ a {
     width: calc(100% - 40px);
     max-width: 600px;
     color: rgb(102, 102, 102);
+    margin-bottom: 10px;
 }
 
 #read_comment_2 {
@@ -227,7 +228,7 @@ a {
   font-size: 16px;
   margin: 10px 5px;
   margin-left: 350px;
-  border-radius: 12px;
+  border-radius: 4px;
   cursor: pointer;
   width: 350px;
   margin-bottom: 60px;
@@ -235,5 +236,20 @@ a {
 #small_line_2 {
     margin-left: 100px;
     max-width: 60%;
+    margin-bottom: 10px;
 } 
+#section_2_title {
+    color: black;
+    margin-left: 100px;
+}
+#section_2_title a {
+    color: #000;
+    text-decoration: underline;
+}
 
+.body_content_image_1 {
+    width:200px;
+    text-align:center;
+    display:block;
+    float:left;
+}
