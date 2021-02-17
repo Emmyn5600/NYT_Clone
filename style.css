@@ -194,3 +194,27 @@ a {
     display: block;
     font-size: 1.20rem;
 }
+#image2 {
+    padding-top: 20px;
+    height: auto;
+    max-width: 70%;
+    margin-left: 155px; 
+}
+.content_4_paragraph {
+    padding-top: 25px;
+    margin-left: 350px;
+    max-width: 45%;
+    display: block;
+    font-size: 1.20rem;    
+}
+.read_comment {
+    margin-left: 350px;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    width: calc(100% - 40px);
+    max-width: 600px;
+    color: rgb(102, 102, 102);
+}
+
+
+
